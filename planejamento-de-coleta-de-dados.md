@@ -29,7 +29,8 @@
 Agora, vamos abordar os aspectos específicos da coleta de dados:
 
 **Termo de Consentimento Livre e Esclarecido (TCLE) e Termo de Assentimento Livre e Esclarecido (TALE):**
-- [Forneça os modelos ou conteúdo do TCLE e TALE, se aplicável. Certifique-se de incluir todas as informações necessárias para informar os participantes sobre os objetivos da pesquisa e obter o consentimento ou assentimento deles.]
+- [TALE](tale.md)
+- [TCLE](tcle.md)
 
 **Planejamento de Pesquisa:**
 - [Descreva a técnica de coleta de dados que você utilizará, como entrevistas, grupos focais, brainstorming, questionários, observações de uso, diários de usuário, etc.]
